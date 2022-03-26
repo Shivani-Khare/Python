@@ -1,2 +1,2 @@
-# Py_champ
+# Python
 Welcome to Python!
